@@ -6,3 +6,6 @@ This is the change I made for GitHub
 
 
 Changes made for git demo
+One more change in file
+
+Adding some code to see single push
