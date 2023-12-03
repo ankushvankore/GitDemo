@@ -12,4 +12,4 @@ Adding some code to see single push
 
 Changes made by Developer B
  
- Adding text from VS Code once again
+ Adding text from VS Code
