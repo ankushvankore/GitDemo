@@ -13,3 +13,5 @@ Adding some code to see single push
 Changes made by Developer B
  
 Adding this line from github for trial right now
+
+I have made some changes from GIT
