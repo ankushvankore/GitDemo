@@ -1,1 +1,2 @@
 I have created this file to understand conflict
+Adding some code from GIT
